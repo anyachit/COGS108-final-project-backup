@@ -16,12 +16,12 @@ The final analysis uses approximately 11,206 respondents after filtering and cle
 Methods & Tools
 Data cleaning, exploratory data analysis, visualization, and statistical testing were conducted in Python/Jupyter Notebook using:
 
--Pandas
--NumPy
--Matplotlib
--Seaborn
--SciPy
--Statsmodels
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Statsmodels
 
 Statistical methods included Chi-Square tests, Cramér's V, Kruskal-Wallis testing, and Tukey HSD post-hoc analysis.
 
@@ -29,11 +29,11 @@ For detailed methodology, results, visualizations, and discussion, see the numbe
 
 
 Team
-Anya Chitlangia — Data wrangling, EDA, visualization, writing, final presentation
-Jason Huang — EDA, visualization, writing, video presentation
-Jocelyn Almanza-Barreto — EDA, visualization, discussion/conclusion, writing
-Johnny Huang — Abstract, background/prior work, writing, video editing
-Orvil Escalante — Data curation, EDA, visualization, discussion/conclusion, writing
+- Anya Chitlangia — Data wrangling, EDA, visualization, writing, final presentation
+- Jason Huang — EDA, visualization, writing, video presentation
+- Jocelyn Almanza-Barreto — EDA, visualization, discussion/conclusion, writing
+- Johnny Huang — Abstract, background/prior work, writing, video editing
+- Orvil Escalante — Data curation, EDA, visualization, discussion/conclusion, writing
 
 
 Course & Repository
@@ -51,5 +51,7 @@ This repository contains our project code, notebooks, analysis, and documentatio
 
 
 Course: COGS 108 - Data Science in Practice
+
 Term: Spring 2026
+
 Institution: University of California, San Diego
