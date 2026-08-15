@@ -1,4 +1,4 @@
-College Major & Early-Career Job Security
+College Major & Early-Career Employment Outcomes
 
 Overview
 This COGS 108 project examines the relationship between undergraduate major and early-career employment outcomes among U.S. college graduates. Using the 2023 National Survey of College Graduates (NSCG), we investigate whether major category is associated with differences in degree-occupation match, salary, labor force status, and employment stability. 
